@@ -1,3 +1,10 @@
+# About project
+
+A Python unit test project covering a (fictitious) shopping cart
+
+Topics
+python testing unit-testing test-automation mocking pytest python-testing the-way-to-test-software
+
 # Shopping Cart Unit Tests
 
 This repository contains the example code for Chapter 5 in Andrew Knight's book, *The Way To Test Software*.
