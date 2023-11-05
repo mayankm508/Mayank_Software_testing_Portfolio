@@ -1,2 +1,4 @@
-# Mayank_Software_testing_Portfolio
-GitHub's Software Testing Project repository is your go-to resource for comprehensive software testing. It offers adaptable test suites, automation scripts, and case examples, supporting testers of all levels. Collaborate, automate, and improve your testing skills in this vibrant community.
+A Python unit test project covering a (fictitious) shopping cart
+
+Topics
+python testing unit-testing test-automation mocking pytest python-testing the-way-to-test-software
