@@ -1,44 +1,26 @@
-# About project
+# Java_Selenium_Cucucmber
 
-A Python unit test project covering a (fictitious) shopping cart
+Java_Selenium_Cucucmber : https://www.time.com/
 
-Topics
-python testing unit-testing test-automation mocking pytest python-testing the-way-to-test-software
+using : Selenium with Cucumber framwork.
 
-# Shopping Cart Unit Tests
+How to set up Follow the link: https://cucumber.io/docs/guides/browser-automation/
 
-This repository contains the example code for Chapter 5 in Andrew Knight's book, *The Way To Test Software*.
-It contains a Python unit test example project named `shopping_cart` that tests code for a (fictitious) shopping cart.
-The project shows how to write unit tests for callables and classes,
-as well as how to fake dependencies with mocks and patches.
+Introduction:
+I automate https://www.time.com/ website with selenium in cucumber framworks in async mode.
 
-Even though this project's primary purpose is to provide example code for the book,
-it can nevertheless be a general example for good Python unit testing practices.
+Automate Module:
+Log in
+Sigh Up
+Post Search
+All menu
+Section
+My Account
+Join
+Menupage
 
-
-## Installation
-
-The example code should work on any operating system (Windows, macOS, Linux).
-To install it:
-
-1. Install [Python](https://www.python.org/) 3.12.0 or higher.
-2. Clone this repository onto your local machine.
-3. Install dependency packages from the command line:
-   * Change directory to the project's root directory.
-   * Run `pip install -r requirements.txt` to install all dependencies.
-
-
-## Execution
-
-To run the unit tests:
-
-```
-cd shopping_cart
-python -m pytest tests
-```
-
-To run the tests with code coverage:
-
-```
-python -m pytest tests --cov=orders --cov-branch
-```
+Recruitments:
+Java
+Selenium
+Cucumber
+Junit
