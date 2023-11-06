@@ -14,7 +14,7 @@ it can nevertheless be a general example for good Python unit testing practices.
 The example code should work on any operating system (Windows, macOS, Linux).
 To install it:
 
-1. Install [Python](https://www.python.org/) 3.8 or higher.
+1. Install [Python](https://www.python.org/) 3.12.0 or higher.
 2. Clone this repository onto your local machine.
 3. Install dependency packages from the command line:
    * Change directory to the project's root directory.
